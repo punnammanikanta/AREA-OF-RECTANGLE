@@ -1,0 +1,2 @@
+# AREA-OF-RECTANGLE
+area
